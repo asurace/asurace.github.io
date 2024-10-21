@@ -1,0 +1,25 @@
+body {
+	font-family: 'Montserrat', sans-serif;
+	background: #f4f9fa;
+	color: #022a30;
+}
+.navbar, h1, h2, h3, h4, h5, h6 {
+	font-family: 'Oswald', sans-serif;
+}
+a {
+	color: #579FA9;
+}
+
+.navbar {
+	background-color: #304468;
+}
+
+.augment {
+	margin: 10px;
+	padding: 10px;
+	--aug-inset: 5px;
+	--aug-border: 3px;
+	--aug-border-bg: #ddd;
+	--aug-inset-bg: #fff;
+}
+
